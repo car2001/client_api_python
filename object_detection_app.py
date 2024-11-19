@@ -7,6 +7,7 @@ import numpy as np
 import pathlib
 import threading
 
+
 class ObjectDetectionApp:
     def __init__(self, root):
         self.root = root
